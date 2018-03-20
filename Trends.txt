@@ -1,0 +1,3 @@
+1. There seem to be no correlation between math scores and grade level.
+2. There seem to be no correlation between reading scores and grade level.
+3. A school's passing rate and budget are inversely correlated, possibly due to more budget being allocated in order to attempt to raise scores.
